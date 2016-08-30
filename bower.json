@@ -1,0 +1,20 @@
+{
+  "name": "data_dic",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Ivan Vercinsky <ivercinsky@dc.uba.ar>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-file-upload": "^2.3.4"
+  }
+}
